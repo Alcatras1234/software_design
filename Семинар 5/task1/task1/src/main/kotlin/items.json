@@ -1,0 +1,27 @@
+[
+	{
+		"name":"Картошка",
+		"price":42,
+		"check":"True",
+		"many":100
+	},
+	{
+		"name":"Апельсин",
+		"price":100000,
+		"check":"True",
+		"many":351
+	},
+	{
+		"name":"Машина",
+		"price":41341,
+		"check":"False",
+		"many":153135153131
+	},
+
+	{	
+		"name": "HJF",
+		"price": 0,
+		"check": "False",
+		"many": 5363435
+	}
+]
